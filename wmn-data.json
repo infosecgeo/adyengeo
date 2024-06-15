@@ -6510,7 +6510,7 @@
         "known" : ["carlito", "taylor"],
         "cat" : "social"
       },
-  {
+      {
       "name": "TikTok",
       "uri_check": "https://www.tiktok.com/@{account}",
       "e_code": 200,
