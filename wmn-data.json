@@ -6509,7 +6509,7 @@
         "m_code" : 404,
         "known" : ["carlito", "taylor"],
         "cat" : "social"
-      }
+      },
   {
       "name": "TikTok",
       "uri_check": "https://www.tiktok.com/@{account}",
